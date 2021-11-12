@@ -5,4 +5,6 @@ This will give you a normal package.json file
 Instead of that, copy my json file and install those dependencies using npm install
 After installation, you will get a node modules installed file and details of every thing in a package-lock.json file
 
+After the installation of every dependencies we can start coding!!!
 
+Use my newserver.js file to understand more about the code.
