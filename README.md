@@ -8,3 +8,4 @@ After installation, you will get a node modules installed file and details of ev
 After the installation of every dependencies we can start coding!!!
 
 Use my newserver.js file to understand more about the code.
+You will see server and newserver; newserver is the code that we are inserting bulk data in json format, the other is to understand just to insert a single data
