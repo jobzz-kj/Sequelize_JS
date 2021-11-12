@@ -9,3 +9,7 @@ After the installation of every dependencies we can start coding!!!
 
 Use my newserver.js file to understand more about the code.
 You will see server and newserver; newserver is the code that we are inserting bulk data in json format, the other is to understand just to insert a single data
+
+Users.json file has 100 datas, which I am inserting through js to database with sequelize
+Here I used sqlite3 as the db
+
